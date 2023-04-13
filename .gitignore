@@ -1,0 +1,6 @@
+.ipynb_checkpoints/
+__pyche__/
+*.npz
+*.tiff
+*.tif
+*.pptx
