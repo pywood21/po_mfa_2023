@@ -34,7 +34,7 @@ add link here.
 
 #### Comparison of two methodologies, POM and XRD
 
-<img src="../po_mfa_2023/Figs/Fig1.PNG" style="zoom:75%;" />
+<img src="./Figs/Fig1.PNG" style="zoom:75%;" />
 
 This figure corresponds to a scatter plot, regression line of MFA measured by POM (x-axis) and XRD (y-axis). Our results clarified that MFA obtained by the both methodologies well coincide with each other within the wide range. Considering this result and their theoretical backgrounds, advantages and limitations of the both methods are discussed in our paper.
 
@@ -42,7 +42,7 @@ This figure corresponds to a scatter plot, regression line of MFA measured by PO
 
 #### Cell-by-cell MFA visualization by POM
 
-<img src="../po_mfa_2023/Figs/Fig2.PNG" style="zoom:75%;" />
+<img src="./Figs/Fig2.PNG" style="zoom:75%;" />
 
 
 
@@ -50,7 +50,7 @@ This figure corresponds to a scatter plot, regression line of MFA measured by PO
 
 #### Relationships between MFA and CWT
 
-<img src="../po_mfa_2023/Figs/Fig4.PNG" style="zoom:75%;" />
+<img src="./Figs/Fig4.PNG" style="zoom:75%;" />
 
 
 
