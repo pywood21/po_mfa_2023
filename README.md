@@ -12,7 +12,7 @@ Yusuke Kita<sup>1</sup>, Titis Setiyobudi<sup>1</sup>, Tatsuya Awano<sup>1</sup>
 
 #### **Link to paper**
 
-DOI: DOI : 10.1007/s10570-023-05351-0.
+DOI : 10.1007/s10570-023-05351-0.
 
 -----
 
