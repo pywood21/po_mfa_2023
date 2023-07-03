@@ -96,7 +96,7 @@ Required apparatus for data collection are listed below.<br>
 2. Graphical processing unit for semantic segmentation tasks (if pretrained model is already prepared, this is not necessary)
 3. single crystal Xray diffractometer
 
-Details of the apparatus we used (manufactures, experimental conditions, etc.) are described in our paper (add external link). Details of the experimental procedure is well documented in our previous work (see [our_paper](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0277616)).
+Details of the apparatus we used (manufactures, experimental conditions, etc.) are described in our paper (see [our_paper](https://doi.org/10.1007/s10570-023-05351-0)). Details of the experimental procedure is well documented in our previous work (see [our_previous_paper](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0277616)).
 
 &nbsp;
 
