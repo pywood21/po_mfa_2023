@@ -14,6 +14,10 @@ Yusuke Kita<sup>1</sup>, Titis Setiyobudi<sup>1</sup>, Tatsuya Awano<sup>1</sup>
 
 DOI : [https://doi.org/10.1007/s10570-023-05351-0](https://doi.org/10.1007/s10570-023-05351-0)
 
+#### **Link to full-text access to a view-only version**
+
+https://rdcu.be/dfYhr
+
 -----
 
 ### 1. Brief Introduction
