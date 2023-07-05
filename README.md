@@ -100,6 +100,16 @@ Details of the apparatus we used (manufactures, experimental conditions, etc.) a
 
 &nbsp;
 
+-----
+
+### 5. Errata
+
+| Page, column, line   | erratum                                                      | posting date | spotted by  |
+| -------------------- | ------------------------------------------------------------ | ------------ | ----------- |
+| p.2, col.2, line 3-7 | **Incorrect:** "we aimed to simultaneously measure cell-by-cell MFA and cell anatomy, and to elucidate the relationships between the combination of POM-based MFA measurement and semantic segmentation-based cell boundary prediction"<br />**Correct:** "we aimed to simultaneously measure cell-by-cell MFA and cell anatomy of hardwoods, and to elucidate the relationships between their cell anatomy and MFA by the combination of POM-based MFA measurement and semantic segmentation-based cell boundary prediction" | 2023/07/05   | Yusuke Kita |
+
+
+
 #### **Note**
 
 *1) Interference filter is required due to the selection of appropriate incident light source wavelength for a quarter waveplate.
