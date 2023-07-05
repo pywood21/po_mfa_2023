@@ -14,6 +14,10 @@ Yusuke Kita<sup>1</sup>, Titis Setiyobudi<sup>1</sup>, Tatsuya Awano<sup>1</sup>
 
 DOI : [https://doi.org/10.1007/s10570-023-05351-0](https://doi.org/10.1007/s10570-023-05351-0)
 
+#### **Link to full-text access to a view-only version**
+
+https://rdcu.be/dfYhr
+
 -----
 
 ### 1. Brief Introduction
@@ -102,11 +106,7 @@ Details of the apparatus we used (manufactures, experimental conditions, etc.) a
 
 -----
 
-### 5. Errata
 
-| Page, column, line   | erratum                                                      | posting date | spotted by  |
-| -------------------- | ------------------------------------------------------------ | ------------ | ----------- |
-| p.2, col.2, line 3-7 | **Incorrect:** "we aimed to simultaneously measure cell-by-cell MFA and cell anatomy, and to elucidate the relationships between the combination of POM-based MFA measurement and semantic segmentation-based cell boundary prediction"<br />**Correct:** "we aimed to simultaneously measure cell-by-cell MFA and cell anatomy of hardwoods, and to elucidate the relationships between their cell anatomy and MFA by the combination of POM-based MFA measurement and semantic segmentation-based cell boundary prediction" | 2023/07/05   | Yusuke Kita |
 
 
 
